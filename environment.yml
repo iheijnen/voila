@@ -6,6 +6,7 @@ dependencies:
 - matplotlib-base
 - numpy
 - pandas
+- sklearn.linear_model
 - scikit-learn
 - ipywidgets
 - jupyterlab>=3.1
